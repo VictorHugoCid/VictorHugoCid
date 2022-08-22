@@ -13,13 +13,13 @@
 <p align="left">
 💻 I’m currently learning all about full stack web development at <a target="_blank" href="https://www.linkedin.com/school/driven-education">Driven Education</a>;<br>
 📚 I'm graduated in Mechanical Engineering at UFRJ;<br>
-🌱 I'm currently studying, sleeping and workout(sometimes);<br>
+🌱 I'm currently studying, sleeping and workout(sometimes 💪);<br>
 🎲 Fun fact: I've been teaching dance since 2012;<br>
 <br>
 
 ###
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://blog.bsource.com.br/assets/img/programador.gif" width="500" height="320" />
 
 <h3 align="left">Languages and Tools...</h3>
 
