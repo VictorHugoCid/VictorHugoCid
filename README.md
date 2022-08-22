@@ -19,7 +19,7 @@
 
 ###
 
-<img align="right" alt="GIF" src="https://blog.bsource.com.br/assets/img/programador.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://blog.bsource.com.br/assets/img/programador.gif" width="500" height="280" />
 
 <h3 align="left">Languages and Tools...</h3>
 
@@ -46,6 +46,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="react logo"  />
 </div>
 
 ###
