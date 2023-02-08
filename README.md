@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>VictorCid</h1>
-  <h3>😎 Software Engineer Student 🌎</h3><br>
+  <h3>😎 Software Engineer 🌎</h3><br>
 </div>
 
 
