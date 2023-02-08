@@ -38,13 +38,17 @@
 
 ###
 
-<h3 align="left">Current Learning..</h3>
+<h3 align="left">Current studying..</h3>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="40" width="52" alt="postgres logo"  />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="40" width="52" alt="docker logo"  />
+  
+  
+  
 </div>
 
 ###
