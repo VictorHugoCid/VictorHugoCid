@@ -75,8 +75,8 @@
 <a href="https://www.linkedin.com/in/victorcid/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   </a>
-  <a href="" target="_blank">victorcidpereiral@gmail.com
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=Gmail&label=&color=B02C3A&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="Gmail logo"  />
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=victorcidpereira@gmail.com&logo=Gmail&label=&color=B02C3A&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="Gmail logo"  />
   </a>
 
 
