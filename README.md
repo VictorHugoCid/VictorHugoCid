@@ -47,8 +47,7 @@
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="40" width="52" alt="postgres logo"  />
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" height="40" width="52" alt="aws logo"  />
-  
-  
+  <img src="https://camo.githubusercontent.com/fd37a0ed465d6e14411705324a0d21739377f54ab6d0ae146c68fca8777e16c7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667" height="40" width="52" alt="aws logo"  />
   
 </div>
 
