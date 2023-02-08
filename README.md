@@ -35,12 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="react logo"  />
   
 </div>
-
-###
-
-<h3 align="left">Current studying..</h3>
-
-###
+<br>
+  <br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
