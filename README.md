@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="40" width="52" alt="postgres logo"  />
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="40" width="52" alt="aws logo"  />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" height="40" width="52" alt="aws logo"  />
   
   
   
