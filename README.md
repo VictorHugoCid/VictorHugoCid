@@ -73,7 +73,7 @@
 <h3 align="left">How to contact me</h3>
 
 <a href="https://www.linkedin.com/in/victor-cid/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=C3C3C3&color=C3C3C3"></a>
-<a href="https://www.linkedin.com/in/victor-cid/" target="_blank"><img src="https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=C3C3C3&color=C3C3C3"></a>
+<a href="https://www.linkedin.com/in/victor-cid/" target="_blank"><img src="https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=C3C3C3&color=C3C3C3"></a>
 
 
 ###
