@@ -10,7 +10,7 @@
 <p align="left">
 💻 I’m full stack web developer trained at <a target="_blank" href="https://www.linkedin.com/school/driven-education">Driven Education</a>;<br>
 📚 I'm graduated in Mechanical Engineering at UFRJ;<br>
-🌱 I'm currently studying, sleeping and workout(sometimes 💪);<br>
+🌱 I'm currently working, studying, sleeping and workout(sometimes 💪);<br>
 🎲 Fun fact: I've been teaching dance since 2012;<br>
 <br>
 
